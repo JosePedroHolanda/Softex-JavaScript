@@ -1,0 +1,9 @@
+Dados na minha vida:
+1- Temperatura;
+2- Tempo;
+3- Decibeis (Som ambiente).
+
+Dados na internet:
+1- Busca no Google;
+2- Cookies;
+3- Carrinho de compras.
