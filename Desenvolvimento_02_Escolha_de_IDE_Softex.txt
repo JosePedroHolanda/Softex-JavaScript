@@ -1,0 +1,6 @@
+<script>
+console.log('Olá Mundo');
+</script>
+
+A escolha foi o VSCode, isso porquer o VS Code é capaz de fazer muitas coisas que nos ajudam a trabalhar melhor. Fora a sua 
+versatilidade de opções para programar e a grande possibilidade de costumizar.
